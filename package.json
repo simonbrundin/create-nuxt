@@ -1,0 +1,19 @@
+{
+  "name": "@simonbrundin/create-nuxt",
+  "version": "0.0.1",
+  "description": "Nuxt Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonbrundin/create-nuxt.git"
+  },
+  "author": "Simon Brundin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonbrundin/create-nuxt/issues"
+  },
+  "homepage": "https://github.com/simonbrundin/create-nuxt#readme"
+}
